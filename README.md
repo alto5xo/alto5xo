@@ -4,4 +4,4 @@
 
 - I am working on **naming progress continues** nowadays.
 
-![Visitors](https://profile-counter.glitch.me/{alto5xo}/count.svg)
+![](https://komarev.com/ghpvc/?username=alto5xo&color=gray&style=for-the-badge)
